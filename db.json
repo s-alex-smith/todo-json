@@ -1,1 +1,6 @@
-
+{
+    "items": [
+      { "id": 1, "action": "clean kitchen", "author": "alex smith", "completed": false},
+      { "id": 2, "action": "feed cat", "author": "alex smith", "completed": false} 
+    ]
+}
